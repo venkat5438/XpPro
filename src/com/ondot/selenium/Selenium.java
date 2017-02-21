@@ -5,8 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
-
 public class Selenium {
 
 	public static void main(String[] args) throws InterruptedException {
