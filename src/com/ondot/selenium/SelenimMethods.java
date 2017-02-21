@@ -18,7 +18,7 @@ public class SelenimMethods {
 		//ele.sendKeys("venkatramreddy108@gmail.com");
 		//String str= ele.getAttribute("name");
 		//System.out.println(str);
-		//ele.submit();
+		ele.submit();
 	    w.wait(5000);
 	    //w.close();
 	    w.quit();
